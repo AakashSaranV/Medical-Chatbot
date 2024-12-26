@@ -1,0 +1,5 @@
+ctransformers==0.2.5
+sentence-tranformers==2.2.2
+pincone-client
+langchain
+flask
